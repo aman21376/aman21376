@@ -1,7 +1,5 @@
 # Aman Ranjan
 
-![Profile Image](path/to/your/image.jpg)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--ranjan-blue)](https://www.linkedin.com/in/aman-ranjan-a8853320b/)
 [![GitHub](https://img.shields.io/badge/GitHub-aman21376-black)](https://github.com/aman21376)
 
@@ -9,11 +7,15 @@
 
 ## 📝 About Me
 
+![About](https://img.shields.io/badge/About%20Me-Informational-blue)
+
 I am a Computer Science and Social Science undergraduate at the Indraprastha Institute of Information Technology Delhi (IIITD), passionate about AI/ML, software development, and data analysis.
 
 ---
 
 ## 💼 Work Experience
+
+![Work](https://img.shields.io/badge/Work%20Experience-Professional-yellow)
 
 ### Protean eGov Technologies Limited (Jun 24 – Sep 24)
 - **Enhanced** search algorithm APIs using AI/ML, improving query response times by 30% and increasing user satisfaction ratings by 25%.
@@ -26,6 +28,8 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ---
 
 ## 💻 Projects
+
+![Projects](https://img.shields.io/badge/Projects-Development-green)
 
 ### [LegalEase](https://thelegaltruth.azurewebsites.net/)
 - **Technologies:** ML, NLP, IR, Python, Flask, HTML, CSS, JS, API, Microsoft Azure
@@ -47,6 +51,8 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 
 ## 🏆 Achievements and Leadership
 
+![Achievements](https://img.shields.io/badge/Achievements-Recognition-red)
+
 - **E-Summit IIITD Convenor:** Led a team of over 200 people, orchestrating one of the largest entrepreneurship events at IIIT Delhi.
 - **Chief Operating Officer at Entrepreneurship Cell, IIIT Delhi:** Steered strategic operations and contributed to substantial growth in participant engagement.
 - **Student Council Representative for CSSS, Batch of 2025:** Acted as a key liaison, enhancing student-faculty communication and driving several student welfare programs.
@@ -56,6 +62,8 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ---
 
 ## 🛠️ Technical Skills
+
+![Skills](https://img.shields.io/badge/Technical%20Skills-Expertise-blue)
 
 - **Languages:** C++, Python, SQL, Basic Bash Scripting, R, Java
 - **Developer Tools:** Elasticsearch, MySQL, SBert, Hugging Face, LibGdx, HTML, TinkerCad, Figma, GitHub
