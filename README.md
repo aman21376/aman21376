@@ -49,18 +49,6 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 
 ---
 
-## 🏆 Achievements and Leadership
-
-![Achievements](https://img.shields.io/badge/Achievements-Recognition-red)
-
-- **E-Summit IIITD Convenor:** Led a team of over 200 people, orchestrating one of the largest entrepreneurship events at IIIT Delhi.
-- **Chief Operating Officer at Entrepreneurship Cell, IIIT Delhi:** Steered strategic operations and contributed to substantial growth in participant engagement.
-- **Student Council Representative for CSSS, Batch of 2025:** Acted as a key liaison, enhancing student-faculty communication and driving several student welfare programs.
-- **Selected for Code for GovTech's Dedicated Mentorship Program:** Distinguished from over 2,600 applicants to participate in a prestigious mentorship.
-- **Runner-Up at SNU Hackdata Hackathon:** Achieved 2nd place among 500 contenders, advancing to the top 20 teams.
-
----
-
 ## 🛠️ Technical Skills
 
 ![Skills](https://img.shields.io/badge/Technical%20Skills-Expertise-blue)
