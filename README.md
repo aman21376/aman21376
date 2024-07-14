@@ -44,7 +44,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 - An online medicine store engineered with MySQL, Python, and PHP for seamless online purchases and prompt deliveries.
 
 ### [Tank vs. Tank](https://github.com/aman21376/F1_tankwars)
-![Tank vs. Tank](https://img.icons8.com/ios-filled/50/000000/video-game.png)
+![Tank vs. Tank](https://img.icons8.com/ios-filled/50/000000/tank.png)
 - **Technologies:** Java, LibGdx, Box2D, Tiled, Scene2D
 - A competitive Player vs. Player tank battle game featuring strategic health and weaponry systems.
 
@@ -60,4 +60,9 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Skills](https://img.shields.io/badge/Technical%20Skills-Expertise-blue)
 
 - **Languages:** C++, Python, SQL, Basic Bash Scripting, R, Java
--
+- **Developer Tools:** Elasticsearch, MySQL, SBert, Hugging Face, LibGdx, HTML, TinkerCad, Figma, GitHub
+- **Technical Electives:** Data Structures and Algorithms, Machine Learning, Information Retrieval, Computer Organisation, Operating Systems, Advanced Programming, Database Management System, Econometrics
+
+---
+
+Feel free to check out my [GitHub Repositories](https://github.com/aman21376) for more of my work!
