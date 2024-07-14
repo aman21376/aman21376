@@ -18,7 +18,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Work](https://img.shields.io/badge/Work%20Experience-Professional-yellow)
 
 ### Protean eGov Technologies Limited (Jun 24 – Sep 24)
-![Protean eGov Technologies Limited](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ai-artificial-intelligence-flaticons-flat-flat-icons.png)
+![Protean eGov Technologies Limited](https://img.icons8.com/color/48/000000/artificial-intelligence.png)
 - **Enhanced** search algorithm APIs using AI/ML, improving query response times by 30% and increasing user satisfaction ratings by 25%.
 - **Constructed** an AI-based Inventory Forecasting System reducing inventory inaccuracies by 20%.
 
@@ -44,7 +44,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 - An online medicine store engineered with MySQL, Python, and PHP for seamless online purchases and prompt deliveries.
 
 ### [Tank vs. Tank](https://github.com/aman21376/F1_tankwars)
-![Tank vs. Tank](https://img.icons8.com/ios-filled/50/000000/game-controller.png)
+![Tank vs. Tank](https://img.icons8.com/ios-filled/50/000000/video-game.png)
 - **Technologies:** Java, LibGdx, Box2D, Tiled, Scene2D
 - A competitive Player vs. Player tank battle game featuring strategic health and weaponry systems.
 
@@ -60,9 +60,4 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Skills](https://img.shields.io/badge/Technical%20Skills-Expertise-blue)
 
 - **Languages:** C++, Python, SQL, Basic Bash Scripting, R, Java
-- **Developer Tools:** Elasticsearch, MySQL, SBert, Hugging Face, LibGdx, HTML, TinkerCad, Figma, GitHub
-- **Technical Electives:** Data Structures and Algorithms, Machine Learning, Information Retrieval, Computer Organisation, Operating Systems, Advanced Programming, Database Management System, Econometrics
-
----
-
-Feel free to check out my [GitHub Repositories](https://github.com/aman21376) for more of my work!
+-
