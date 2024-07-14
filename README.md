@@ -18,12 +18,12 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Work](https://img.shields.io/badge/Work%20Experience-Professional-yellow)
 
 ### Protean eGov Technologies Limited (Jun 24 – Sep 24)
-![Protean eGov Technologies Limited](https://upload.wikimedia.org/wikipedia/en/8/8e/Protean_eGov_Technologies_Logo.png)
+![Protean eGov Technologies Limited](https://img.icons8.com/office/40/000000/factory.png)
 - **Enhanced** search algorithm APIs using AI/ML, improving query response times by 30% and increasing user satisfaction ratings by 25%.
 - **Constructed** an AI-based Inventory Forecasting System reducing inventory inaccuracies by 20%.
 
 ### Undergraduate Researcher IIIT Delhi (Jan 24- May 24)
-![IIIT Delhi](https://upload.wikimedia.org/wikipedia/en/e/ea/IIIT_Delhi_Logo.png)
+![IIIT Delhi](https://img.icons8.com/office/40/000000/school.png)
 - **Developed** VariScan, a device for precise and instantaneous HRV monitoring using optical readings.
 - **Advanced** WiFi-based data capture and transmission, achieving an accuracy of 60%.
 
@@ -34,7 +34,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Projects](https://img.shields.io/badge/Projects-Development-green)
 
 ### [LegalEase](https://thelegaltruth.azurewebsites.net/)
-![LegalEase](https://img.icons8.com/doodle/48/000000/law.png)
+![LegalEase](https://img.icons8.com/doodle/48/000000/scale.png)
 - **Technologies:** ML, NLP, IR, Python, Flask, HTML, CSS, JS, API, Microsoft Azure
 - An AI application that condenses extensive legal texts, identifies potential fraud, and supports a detailed-query chatbot.
 
@@ -49,7 +49,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 - A competitive Player vs. Player tank battle game featuring strategic health and weaponry systems.
 
 ### [Hardware Chacha](https://github.com/aman21376/hchacha_web)
-![Hardware Chacha](https://img.icons8.com/doodle/48/000000/hardware.png)
+![Hardware Chacha](https://img.icons8.com/doodle/48/000000/startup.png)
 - **Technologies:** Python, SQL, HTML, CSS, ML
 - An online platform for buying and selling hardware items with ML-based market insights and recommendation engines.
 
