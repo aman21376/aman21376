@@ -18,7 +18,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Work](https://img.shields.io/badge/Work%20Experience-Professional-yellow)
 
 ### Protean eGov Technologies Limited (Jun 24 – Sep 24)
-![Protean eGov Technologies Limited](https://img.icons8.com/clouds/100/000000/ai.png)
+![Protean eGov Technologies Limited](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ai-artificial-intelligence-flaticons-flat-flat-icons.png)
 - **Enhanced** search algorithm APIs using AI/ML, improving query response times by 30% and increasing user satisfaction ratings by 25%.
 - **Constructed** an AI-based Inventory Forecasting System reducing inventory inaccuracies by 20%.
 
@@ -34,7 +34,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 ![Projects](https://img.shields.io/badge/Projects-Development-green)
 
 ### [LegalEase](https://thelegaltruth.azurewebsites.net/)
-![LegalEase](https://img.icons8.com/doodle/48/000000/justice.png)
+![LegalEase](https://img.icons8.com/doodle/48/000000/lady-justice.png)
 - **Technologies:** ML, NLP, IR, Python, Flask, HTML, CSS, JS, API, Microsoft Azure
 - An AI application that condenses extensive legal texts, identifies potential fraud, and supports a detailed-query chatbot.
 
@@ -44,7 +44,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 - An online medicine store engineered with MySQL, Python, and PHP for seamless online purchases and prompt deliveries.
 
 ### [Tank vs. Tank](https://github.com/aman21376/F1_tankwars)
-![Tank vs. Tank](https://img.icons8.com/doodle/48/000000/video-game.png)
+![Tank vs. Tank](https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-game-strategy-wanicon-lineal-color-wanicon.png)
 - **Technologies:** Java, LibGdx, Box2D, Tiled, Scene2D
 - A competitive Player vs. Player tank battle game featuring strategic health and weaponry systems.
 
