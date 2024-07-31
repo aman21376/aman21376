@@ -33,7 +33,7 @@ I am a Computer Science and Social Science undergraduate at the Indraprastha Ins
 
 ![Projects](https://img.shields.io/badge/Projects-Development-green)
 
-### [LegalEase](https://thelegaltruth.azurewebsites.net/)
+### [LegalEase][(https://github.com/kunal21330/CSE508_project])
 ![LegalEase](https://img.icons8.com/ios-filled/50/ffffff/scales.png)
 - **Technologies:** ML, NLP, IR, Python, Flask, HTML, CSS, JS, API, Microsoft Azure
 - An AI application that condenses extensive legal texts, identifies potential fraud, and supports a detailed-query chatbot.
